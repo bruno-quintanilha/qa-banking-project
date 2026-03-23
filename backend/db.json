@@ -1,0 +1,147 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Bruno",
+      "email": "bruno@email.com"
+    },
+    {
+      "id": "89d5",
+      "name": "João",
+      "email": "joao@email.com"
+    },
+    {
+      "id": "7e0d",
+      "name": "Maria",
+      "email": "maria@email.com"
+    },
+    {
+      "id": "efac",
+      "name": "Carlos",
+      "email": "carlos@email.com"
+    },
+    {
+      "id": "4192",
+      "name": "Ana",
+      "email": "ana@email.com"
+    },
+    {
+      "id": "0995",
+      "name": "Jorge",
+      "email": "jorge@email.com"
+    },
+    {
+      "id": "79f1",
+      "name": "Camila",
+      "email": "camila@email.com"
+    },
+    {
+      "id": "7619",
+      "name": "Pedro",
+      "email": "pedro@email.com"
+    },
+    {
+      "id": "939a",
+      "name": "Kaio",
+      "email": "kaio@email.cpm"
+    },
+    {
+      "id": "45e0",
+      "name": "Valentina",
+      "email": "valentina@email.com"
+    },
+    {
+      "id": "e31c",
+      "name": "Teste"
+    },
+    {
+      "id": "928e",
+      "name": "Teste"
+    },
+    {
+      "id": "31e0",
+      "name": "Teste"
+    },
+    {
+      "id": "341a",
+      "name": "Teste"
+    },
+    {
+      "id": "52a8",
+      "name": "Teste"
+    },
+    {
+      "id": "7bca",
+      "name": "Teste"
+    },
+    {
+      "id": "89e2",
+      "name": "Teste"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "1",
+      "userId": 1,
+      "balance": 1000
+    },
+    {
+      "id": "b733",
+      "userId": "89d5",
+      "balance": 500
+    },
+    {
+      "id": "bb9e",
+      "userId": "79f1",
+      "balance": 300
+    },
+    {
+      "id": "2ff5",
+      "userId": "7619",
+      "balance": 300
+    },
+    {
+      "id": "818e",
+      "userId": "939a",
+      "balance": 300
+    },
+    {
+      "id": "d895",
+      "userId": "45e0",
+      "balance": 300
+    }
+  ],
+  "transactions": [
+    {
+      "id": "7d74",
+      "accountId": "b733",
+      "type": "deposit",
+      "amount": 200
+    },
+    {
+      "id": "e7e7",
+      "accountId": "{{acconutId}}",
+      "type": "deposit",
+      "amount": 150
+    },
+    {
+      "id": "2c10",
+      "accountId": "{{accountId}}",
+      "type": "deposit",
+      "amount": 150
+    },
+    {
+      "id": "a230",
+      "accountId": "818e",
+      "type": "deposit",
+      "amount": 150
+    },
+    {
+      "id": "a7c7",
+      "accountId": "d895",
+      "type": "deposit",
+      "amount": 150
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
