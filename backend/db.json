@@ -163,6 +163,12 @@
       "accountId": "SEU_ACCOUNT_ID",
       "type": "deposit",
       "amount": -100
+    },
+    {
+      "id": "7d9a",
+      "accountId": "999999",
+      "type": "deposit",
+      "amount": 100
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
