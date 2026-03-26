@@ -151,6 +151,18 @@
       "accountId": "d895",
       "type": "deposit",
       "amount": 150
+    },
+    {
+      "id": "a531",
+      "accountId": "SEU_ACCOUNT_ID",
+      "type": "deposit",
+      "amount": -100
+    },
+    {
+      "id": "e7b1",
+      "accountId": "SEU_ACCOUNT_ID",
+      "type": "deposit",
+      "amount": -100
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
