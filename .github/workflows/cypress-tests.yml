@@ -21,7 +21,10 @@ jobs:
         run: npm install
 
       - name: Rodar json-server
-        run: npx json-server --watch backend/db.json &
+        run: npx json-server --watch backend/db.json --port 3000 &
+
+      - name: Esperar servidor subir
+        run: sleep 5
 
       - name: Rodar Cypress
         run: npx cypress run
