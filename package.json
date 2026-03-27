@@ -1,0 +1,23 @@
+{
+  "name": "qa-banking-project",
+  "version": "1.0.0",
+  "description": "Projeto de testes de software simulando um sistema bancário, com foco em validação de API, testes manuais e automação.",
+  "main": "cypress.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruno-quintanilha/qa-banking-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruno-quintanilha/qa-banking-project/issues"
+  },
+  "homepage": "https://github.com/bruno-quintanilha/qa-banking-project#readme"
+}

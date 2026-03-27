@@ -706,6 +706,21 @@
       "id": "a4e3",
       "userId": "1",
       "balance": 300
+    },
+    {
+      "id": "de44",
+      "userId": "999999",
+      "balance": 300
+    },
+    {
+      "id": "6468",
+      "userId": "1",
+      "balance": -100
+    },
+    {
+      "id": "e2bf",
+      "userId": "1",
+      "balance": 300
     }
   ],
   "transactions": [
